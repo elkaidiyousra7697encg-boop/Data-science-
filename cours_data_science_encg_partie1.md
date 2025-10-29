@@ -2,7 +2,8 @@
 ## École Nationale de Commerce et de Gestion (ENCG) - 4ème Année
 
 ---
-
+#Yousra Elkaidi
+<img src="2.jpg" style="height:464px;margin-right:432px"/>
 # PARTIE 1 : FONDAMENTAUX DE LA SCIENCE DES DONNÉES
 
 ---
