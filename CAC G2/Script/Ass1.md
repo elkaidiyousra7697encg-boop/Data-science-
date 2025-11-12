@@ -1,6 +1,6 @@
 # El kaidi yousra
 # 25007958
-#<img src="2.jpg" style="height:464px;margin-right:432px"/>
+<img src="2.jpg" style="height:464px;margin-right:432px"/>
 # Le dataset "Heart Disease" de l'UCI Machine Learning Repository est une base de données médicale emblématique contenant des informations sur 303 patients et visant à prédire la présence de maladies cardiaques. Elle comporte 13 attributs cliniques incluant des données démographiques (âge, sexe), des mesures physiologiques (pression artérielle, cholestérol, fréquence cardiaque), des symptômes (type de douleur thoracique) et des résultats d'examens médicaux (ECG, test d'effort). La variable cible quantifie la présence et la sévérité de la maladie cardiaque sur une échelle de 0 à 4.
 
 Cette base de données représente un outil précieux pour la recherche en intelligence artificielle médicale, permettant de développer des modèles prédictifs pour le diagnostic précoce des pathologies cardiaques. Sa taille modeste mais bien équilibrée en fait un dataset idéal pour l'expérimentation pédagogique tout en conservant une réelle pertinence clinique. Les défis principaux incluent le traitement des valeurs manquantes potentielles, l'encodage des variables catégorielles et la gestion d'éventuels déséquilibres entre les classes.
