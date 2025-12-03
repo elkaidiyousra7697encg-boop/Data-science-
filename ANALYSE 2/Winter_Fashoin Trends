@@ -1,1 +1,53 @@
+# El kaidi Yousra
+<img src="2.jpg" style="height:300px;margin-right:300px; float:left; border-radius:10px;"/>
 
+Numéro d'étudiant : 25007958
+Classe : CAC2
+Compte rendu
+Analyse Prédictive de Régression des Tendances Mode Hivernale
+Date : 03/12/2025
+
+Table des Matières
+Introduction et Contexte
+
+Analyse Exploratoire des Données (Data Analysis)
+
+Chargement et Structure du Dataset
+
+Distribution de la Variable Cible
+
+Préparation pour la Régression
+
+Analyse Statistique et Visuelle
+
+Méthodologie de Régression
+
+Séparation des Données (Data Split)
+
+Modèles de Régression Testés
+
+Résultats et Comparaison des Performances
+
+Performances Individuelles
+
+Tableau Comparatif
+
+Analyse des Coefficients
+
+Conclusion
+
+1. Introduction et Contexte
+Ce rapport présente une analyse prédictive de régression sur un jeu de données réel des tendances mode hivernale Instagram, importé depuis Kaggle, réalisée dans le cadre d'une analyse de données. En suivant le cycle de vie des données, une exploration (EDA), un prétraitement et plusieurs modélisations de régression ont été menées.​
+
+L'objectif est de prédire le prix (PriceUSD) des articles de mode en utilisant diverses techniques de régression linéaire, polynomiale, régularisée et non linéaire, et d'évaluer leurs performances respectives sur ce dataset.​
+
+2. Analyse Exploratoire des Données (Data Analysis)
+2.1 Chargement et Structure du Dataset
+Le jeu de données WinterFashionTrendsDataset.csv contient des caractéristiques des articles de mode hivernale avec leurs prix en USD.​
+
+Nombre d'échantillons ($N$) : 150 observations.
+
+Nombre de variables ($d$) : 12 colonnes initiales (11 features + 1 target), étendu à 46 après encodage One-Hot.
+
+Variables d'entrée ($X$) : Brand, Category, Color, Material, Style, Gender, Season, TrendStatus, PopularityScore, CustomerRating.
+Variable de sortie ($Y$) : Prix (PriceUSD).
