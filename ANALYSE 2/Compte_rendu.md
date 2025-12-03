@@ -2,9 +2,13 @@
 <img src="2.jpg" style="height:300px;margin-right:300px; float:left; border-radius:10px;"/>
 
 Numéro d'étudiant : 25007958
+
 Classe : CAC2
+
 Compte rendu
+
 Analyse Prédictive de Régression des Tendances Mode Hivernale
+
 Date : 03/12/2025
 
 Table des Matières
